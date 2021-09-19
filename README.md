@@ -14,3 +14,8 @@ The Program requires Python (>= 3.5) installed and added to the path environment
 If you have Python Launcher as in case of Micrososft Windows then launching it is as simple as double clicking it or else open a terminal in the directory of the python file and launch it as any other Python File on terminal.
 
 To avoid going to the program directory, you can try adding the directory of the program to Path Environment Variable.
+
+**SCREENSHOTS**
+
+You will find all the screenshots of the Program in the screenshots folder
+
