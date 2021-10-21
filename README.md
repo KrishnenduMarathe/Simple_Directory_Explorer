@@ -26,8 +26,8 @@ To avoid going to the program directory, you can try adding the directory of the
 ## SCREENSHOTS
 You will find all the screenshots of the Program in the screenshots folder
 
-### Splash Screen V0.01
-![alt tag](https://github.com/KrishnenduMarathe/Simple_Directory_Explorer/blob/main/screenshots/Splash%20Screen%20V0.01.png)
+### Splash Screen Latest Version
+![alt tag](https://github.com/KrishnenduMarathe/Simple_Directory_Explorer/blob/main/screenshots/Splash%20Screen.png)
 
-### CLI V0.01
-![alt tag](https://github.com/KrishnenduMarathe/Simple_Directory_Explorer/blob/main/screenshots/CLI%20V0.01.png)
+### CLI Latest Version
+![alt tag](https://github.com/KrishnenduMarathe/Simple_Directory_Explorer/blob/main/screenshots/CLI.png)
