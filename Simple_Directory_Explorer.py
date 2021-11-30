@@ -69,7 +69,7 @@ else:
 # Terminal Interface Class Object
 class TerminalFunctions:
     """
-    Class that encompasses all the functions of this program under a single object
+    Class that encompasses all the funnctions of this programunder a single object
     It is necessary to use the get_updates command to initialise and update variables in a program loop
     """
     fileList = []
