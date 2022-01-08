@@ -31,3 +31,4 @@ You will find all the screenshots of the Program in the screenshots folder
 
 ### CLI Latest Version
 ![alt tag](https://github.com/KrishnenduMarathe/Simple_Directory_Explorer/blob/main/screenshots/CLI.png)
+
